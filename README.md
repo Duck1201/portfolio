@@ -1,1 +1,1 @@
-Link: https://duck1201.github.io/portfolio/html/index.html
+Link: https://duck1201.github.io/Portfolio/html/index.html
